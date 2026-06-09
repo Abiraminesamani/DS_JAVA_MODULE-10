@@ -3,9 +3,9 @@
 ## DATE:14.11.2025  
 
 ### Developed by
-**Name:** Shanmuga Vasanth M
+**Name:** ABIRAMI N
 
-**Register Number:** 212223040191 
+**Register Number:** 212224220005 
 
 ## AIM:  
 To design and implement a Java program that constructs a binary tree from given level order input and counts the number of nodes present in the left subtree of the root node.  
