@@ -3,9 +3,9 @@
 ## DATE:14.11.2025  
 
 ### Developed by
-**Name:** Shanmuga Vasanth M
+**Name:** ABIRAMI N
 
-**Register Number:** 212223040191 
+**Register Number:** 212224220005 
 
 ## AIM:
 To design and implement a Java program that helps an electric vehicle (EV) find the shortest travel time from its current block to the nearest charging station using Dijkstra’s shortest path algorithm.
