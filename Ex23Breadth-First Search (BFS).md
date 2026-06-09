@@ -3,9 +3,9 @@
 ## DATE:14.11.2025  
 
 ### Developed by
-**Name:** Shanmuga Vasanth M
+**Name:** ABIRAMI N
 
-**Register Number:** 212223040191 
+**Register Number:** 212224220005 
 
 ## AIM:
 To design and implement a Java program to perform Breadth-First Search (BFS) traversal on a city’s junction map represented as a graph, and find all reachable locations from a given source junction.
